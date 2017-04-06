@@ -79,7 +79,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="randomJSfile.js" />
+    <Content Include="someConfigFile.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
